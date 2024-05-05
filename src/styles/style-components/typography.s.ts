@@ -167,3 +167,16 @@ export const TINY = styled.h6<TTypographyProps>`
     font-weight: 400;
   }
 `;
+
+export const ABOUTPTITLE = styled.p<TTypographyProps>`
+  && {
+    ${globalStyle}
+
+    /* about page */
+   font-size: 16px;
+    font-weight: normal;
+    line-height: normal;
+    color: #9b9fa7;
+    display: inline;
+  }
+`;

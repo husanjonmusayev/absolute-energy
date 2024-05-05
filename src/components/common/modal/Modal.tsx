@@ -9,7 +9,7 @@ interface IModalProps {
 }
 
 export const Modal: FC<IModalProps> = ({ children, open, handleClose }) => {
-  console.log(open);
+  
 
   useEffect(() => {
     if (open) {

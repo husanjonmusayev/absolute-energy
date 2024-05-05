@@ -20,6 +20,7 @@ import {
   LEAD_TEXT,
   SMALL,
   TINY,
+  ABOUTPTITLE,
 } from "./style-components";
 
 export const Typography = {
@@ -33,6 +34,7 @@ export const Typography = {
   LEAD_TEXT,
   SMALL,
   TINY,
+  ABOUTPTITLE,
 };
 
 const Styles = {

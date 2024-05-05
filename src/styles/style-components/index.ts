@@ -9,6 +9,7 @@ export {
   LEAD_TEXT,
   SMALL,
   TINY,
+  ABOUTPTITLE
 } from "./typography.s";
 export { Row } from "./flex-layout.s";
 export { Column } from "./flex-layout.s";
